@@ -1,0 +1,876 @@
+@media (max-width:1084px) and (min-width:847px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .secpara {
+        font-size: 19px;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 27%;
+        margin-bottom: 139px;
+    }
+
+    h3,
+    h4 {
+        margin: 15px 0px;
+        display: flex;
+        width: 100%;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 75px;
+    }
+}
+
+/* 2nd Responsive  */
+@media (max-width:847px) and (min-width:747px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 22px;
+    }
+
+    .navbar ul li {
+        margin: 4px;
+        padding: 4px;
+    }
+
+    .navbar ul li a,
+    .para1 {
+        font-size: 22px;
+    }
+
+    .dlogo {
+        height: 4%;
+        margin: 3px;
+        padding: 2px;
+    }
+
+    h2,
+    h3,
+    h4 {
+        font-size: 45px;
+    }
+
+    .secpara {
+        font-size: 19px;
+        flex-direction: column;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 32%;
+        margin-bottom: 2px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 12px;
+    }
+
+    form {
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 12px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+    }
+
+}
+
+/* 3rd Responsive  */
+@media (max-width:746px) and (min-width:547px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 39px;
+    }
+
+    .navbar ul li {
+        margin: 2px;
+        padding: 2px;
+    }
+
+    .navbar ul li a,
+    .para1 {
+        font-size: 17px;
+    }
+
+    .dlogo {
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+
+    }
+
+    h2,
+    h3,
+    h4 {
+        /* margin-top: 4px; */
+        font-size: 36px;
+    }
+
+    .secpara {
+        font-size: 17px;
+        flex-direction: column;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 40%;
+        margin-bottom: 2px;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 12px;
+    }
+
+    form {
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 12px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+    }
+
+    .secpara,
+    .secpara3,
+    footer,
+    form input,
+    select,
+    option,
+    textarea {
+        font-size: 18px;
+    }
+}
+
+/* 4th Responsive  */
+@media (max-width:546px) and (min-width:447px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        overflow-x: hidden;
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 33px;
+    }
+
+    .navbar ul li {
+        margin: 2px;
+        padding: 2px;
+    }
+
+    .navbar ul li a,
+    .para1 {
+        font-size: 15px;
+    }
+
+    .dlogo {
+        display: none;
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+    }
+
+    h2,
+    h3,
+    h4 {
+        font-size: 33px;
+    }
+
+    .secpara {
+        font-size: 16px;
+        flex-direction: column;
+        border: none;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 100%;
+    }
+
+    .paraimg img {
+        width: 100%;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 12px;
+    }
+
+    form {
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 12px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+    }
+
+    .secpara3,
+    footer,
+    form input,
+    select,
+    option,
+    textarea {
+        font-size: 17px;
+    }
+
+    .addre {
+        width: 37px;
+        margin-bottom: 3px;
+    }
+
+    .socialicon {
+        width: 34px;
+    }
+
+    input.btn {
+        font-size: 22px;
+    }
+
+    .locate {
+        width: 100vw;
+        height: 65vh;
+        margin-bottom: 22px;
+    }
+}
+
+/* 5th Responsive  */
+@media (max-width:446px) and (min-width:346px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 22px;
+    }
+
+    .navbar ul li {
+        margin: 2px;
+        padding: 2px;
+    }
+
+    .navbar ul li a {
+        font-size: 11px;
+    }
+
+    .para1 {
+        font-size: 16px;
+        margin: 24px;
+        padding: 6px;
+    }
+
+    .dlogo {
+        display: none;
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+    }
+
+    h2,
+    h3,
+    h4 {
+        /* margin-top: 4px; */
+        font-size: 29px;
+    }
+
+    .secpara {
+        font-size: 16px;
+        flex-direction: column;
+        border: none;
+    }
+
+    .paraimg img {
+        width: 100%;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 100%;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 12px;
+    }
+
+    form {
+        font-size: 17px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 12px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+        margin: auto;
+        font-size: 19px;
+    }
+
+    .secpara3,
+    form input,
+    select,
+    option,
+    textarea {
+        font-size: 17px;
+    }
+
+    .addre {
+        width: 37px;
+        margin-bottom: 3px;
+    }
+
+    .socialicon {
+        width: 34px;
+    }
+
+    input.btn {
+        font-size: 20px;
+        height: 43px;
+        border-radius: 21px;
+    }
+
+    footer {
+        font-size: 14px;
+    }
+
+    .locate {
+        width: 100vw;
+        height: 55vh;
+        margin-bottom: 22px;
+    }
+}
+
+/* 6th Responsive  */
+
+@media (max-width:345px) and (min-width:298px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 22px;
+    }
+
+    .navbar ul li {
+        margin: 2px;
+        padding: 1px;
+    }
+
+    .navbar ul li a {
+        font-size: 10px;
+    }
+
+    .para1 {
+        font-size: 15px;
+        margin: 16px;
+        padding: 4px;
+    }
+
+    .dlogo {
+        display: none;
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+    }
+
+    h2,
+    h3,
+    h4 {
+        font-size: 26px;
+    }
+
+    .secpara {
+        font-size: 15px;
+        flex-direction: column;
+        border: none;
+        margin-top: 5px;
+    }
+    .secpara3 {
+        margin: 16px;
+        font-size: 16px;
+    }
+    .paraimg img {
+        width: 100%;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 100%;
+    }
+
+    .container {
+        flex-direction: column;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 2px;
+    }
+
+    form {
+        font-size: 16px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+    form input, select, option {
+        margin-top: 12px;
+        height: 31px;
+        font-size: 16px;
+        border-radius: 15px;
+    }
+    textarea{
+        font-size: 18px;
+    }
+    .text {
+        color: #ffc107;
+        margin: auto;
+        font-size: 19px;
+    }
+
+    .addre {
+        width: 40px;
+        margin-bottom: 4px;
+    }
+
+    .socialicon {
+        width: 30px;
+    }
+
+    input.btn {
+        font-size: 19px;
+        height: 42px;
+        border-radius: 20px;
+    }
+
+    footer {
+        font-size: 12px;
+    }
+
+    .locate {
+        width: 100vw;
+        height: 50vh;
+        margin-bottom: 5px;
+    }
+
+}
+
+/* 7th Responsive  */
+
+@media (max-width:297px) and (min-width:215px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 18px;
+    }
+
+    .navbar ul li {
+        margin: 2px;
+        padding: 1px;
+    }
+
+    .navbar ul li a {
+        font-size: 7.35px;
+    }
+
+    .para1 {
+        font-size: 10px;
+        margin: 10px;
+        padding: 2px;
+    }
+
+
+    .dlogo {
+        display: none;
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+
+    }
+
+    h2,
+    h3,
+    h4 {
+        /* margin-top: 12px; */
+        font-size: 19px;
+        margin-top: 12px;
+    }
+
+    .secpara {
+        font-size: 10px;
+        flex-direction: column;
+        border: none;
+    }
+
+    .paraimg img {
+        width: 100%;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 100%;
+
+    }
+
+    .container {
+        flex-direction: column;
+        margin-bottom: 0px;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 2px;
+    }
+
+    form {
+        font-size: 13px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+        margin: auto;
+        font-size: 11px;
+    }
+
+    .secpara3 {
+        font-size: 9px;
+        margin: 10px 20px;
+    }
+
+    form input,
+    select,
+    option {
+        margin-top: 6px;
+        width: 85%;
+        height: 20px;
+        font-size: 9px;
+        border-radius: 10px;
+    }
+
+    textarea {
+        margin-top: 6px;
+        width: 85%;
+        height: 52px;
+        font-size: 9px;
+        border-radius: 10px;
+    }
+
+    .addre {
+        width: 25px;
+        margin-bottom: 3px;
+    }
+
+    .socialicon {
+        width: 20px;
+        margin: 5px;
+    }
+
+    input.btn {
+        font-size: 12px;
+        height: 23px;
+        margin-bottom: 11px;
+    }
+
+    footer {
+        font-size: 8.59px;
+        height: 35px;
+    }
+
+    .locate {
+        width: 100vw;
+        height: 50vh;
+        margin-bottom: 5px;
+    }
+
+    span.paras {
+        padding: 4px;
+    }
+
+}
+
+
+/* 8th Responsive  */
+
+@media (max-width:214px) and (min-width:165px) {
+
+    html,
+    body {
+        width: 100%;
+        height: 100%;
+        margin: 0;
+        padding: 0;
+        /* overflow-x: hidden; */
+        scroll-behavior: smooth;
+    }
+
+    .backimg img {
+        width: 100%;
+        margin-top: 13px;
+    }
+
+    .navbar ul li {
+        margin: 1px;
+        padding: 1px;
+    }
+
+    .navbar ul li a {
+        font-size: 5.78px;
+    }
+
+    .para1 {
+        font-size: 8px;
+        margin: 6px;
+        padding: 2px;
+    }
+
+
+    .dlogo {
+        display: none;
+        height: 4%;
+        margin: 2px;
+        padding: 2px;
+
+    }
+
+    h2,
+    h3,
+    h4 {
+        /* margin-top: 12px; */
+        font-size: 14px;
+        margin-top: 6px;
+    }
+
+    .secpara {
+        font-size: 6px;
+        flex-direction: column;
+        border: none;
+        margin-top: 2px;
+    }
+
+    .paraimg img {
+        width: 100%;
+    }
+
+    .secimg,
+    .secimg2 {
+        width: 100%;
+
+    }
+
+    .container {
+        flex-direction: column;
+        margin-bottom: 0px;
+    }
+
+    .continfo {
+        width: 100%;
+        border-right: none;
+        background-color: #4b4d9729;
+        margin-bottom: 2px;
+    }
+
+    form {
+        font-size: 7px;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        margin-top: 0px;
+        background: #011202;
+        margin-left: 0px;
+        align-items: center;
+    }
+
+    .text {
+        color: #ffc107;
+        margin: auto;
+        font-size: 9px;
+    }
+
+    .secpara3 {
+        font-size: 8px;
+        margin: 10px 20px;
+    }
+
+    form input,
+    select,
+    option {
+        margin-top: 6px;
+        width: 75%;
+        height: 16px;
+        font-size: 7px;
+        border-radius: 7px;
+    }
+
+    textarea {
+        margin-top: 6px;
+        width: 75%;
+        font-size: 7px;
+        border-radius: 7px;
+    }
+
+    .addre {
+        width: 24px;
+        margin-bottom: 3px;
+    }
+
+    .socialicon {
+        width: 14px;
+        margin: 3px;
+    }
+
+    input.btn {
+        font-size: 8px;
+        width: 75%;
+        height: 19px;
+        margin-bottom: 6px;
+    }
+
+    footer {
+        font-size: 6.70px;
+        height: 25px;
+    }
+
+    .locate {
+        width: 100vw;
+        height: 50vh;
+        margin-bottom: 5px;
+    }
+
+    span.paras {
+        padding: 2px;
+    }
+
+
+}
